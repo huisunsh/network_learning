@@ -3,8 +3,8 @@
 """
 Created on Mon Oct  1 12:13:43 2018
 
-@author: Hui Sun
-
+@author:Hui Sun
+Please direct any questions to: hui.sun@kellogg.northwestern.edu.
 """
 
 import os
